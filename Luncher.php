@@ -1,5 +1,5 @@
 <?php
-/*
+/*welcomebot
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
@@ -34,3 +34,4 @@ Telegram Channel: https://telegram.me/PvResan
 یا علی خدا قوت
 */
 ?>
+268475538
